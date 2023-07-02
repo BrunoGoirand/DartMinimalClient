@@ -1,3 +1,6 @@
+// file: searles.dart
+// license: see LICENSE.md
+//
 import 'dart:io';
 
 void main() async {
